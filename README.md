@@ -1,2 +1,4 @@
 # Portfolio
-This is my first Git Repository. Author - Rahul Kumar
+This is my first Git Repository. 
+<br>
+Author - Rahul Kumar
